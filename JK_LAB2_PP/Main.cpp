@@ -11,15 +11,15 @@ int main()
 	scanf_s("%d", &end);
 	int* arr = new int[size];
 	randomizer(arr, size, start, end);
-	for (int i = 0; i < size; i++)printf("%d\n", arr[i]);
-	printf("\n");
+	for (int i = 0; i < size; i++)printf("%d, ", arr[i]);
+	printf("\n\n");
 	printf("Press anything to sort an array\n\n");
 	_getch();
 
 	sort(arr, size);
-	for (int i = 0; i < size; i++)printf("%d\n", arr[i]);
+	for (int i = 0; i < size; i++)printf("%d, ", arr[i]);
 	delete[] arr;
-	printf("\nPress anything to close program");
+	printf("\n\nPress anything to close program");
 	_getch();
 	_getch();
 
