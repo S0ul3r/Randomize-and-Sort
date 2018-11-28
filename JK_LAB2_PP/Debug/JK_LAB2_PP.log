@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\jakub\source\repos\jk_lab2_pp\jk_lab2_pp\main.cpp(18): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'bool *'
+  JK_LAB2_PP.vcxproj -> C:\Users\jakub\source\repos\JK_LAB2_PP\Debug\JK_LAB2_PP.exe
