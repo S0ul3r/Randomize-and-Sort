@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Wizytowka.cpp
+c:\users\pas519\desktop\randomize-and-sort-master\jk_lab2_pp\wizytowka.cpp(6): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\pas519\desktop\randomize-and-sort-master\jk_lab2_pp\wizytowka.cpp(13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  JK_LAB2_PP.vcxproj -> C:\Users\pas519\Desktop\Randomize-and-Sort-master\x64\Debug\JK_LAB2_PP.exe

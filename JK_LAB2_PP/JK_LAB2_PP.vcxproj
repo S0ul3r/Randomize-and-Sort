@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="rand_swap_sort.cpp" />
+    <ClCompile Include="Wizytowka.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />

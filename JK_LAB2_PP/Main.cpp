@@ -2,8 +2,10 @@
 
 int main()
 {
+	char a[] = "\272 Jakub Cezary Kulewicz 221357 \272";
+	visiting_card(a);
 	int size, start, end;
-	bool type;
+	int type;
 	printf("Give a number how large the table should be: ");
 	scanf_s("%d", &size);
 	printf("Enter the starting number for random value generator: ");
